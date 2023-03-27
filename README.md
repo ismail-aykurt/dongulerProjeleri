@@ -1,1 +1,1 @@
-# dongulerProjeleri
+temelkavramlarProjeleri
